@@ -14,11 +14,9 @@ A small Claude Code plugin bundling three workflow skills:
 ## Install
 
 ```
-/plugin marketplace add <owner>/dev-workflow-skills
+/plugin marketplace add Snehal1112/dev-workflow-skills
 /plugin install dev-workflow-skills@dev-workflow-skills-marketplace
 ```
-
-(Replace `<owner>/dev-workflow-skills` with this repo's actual GitHub path once published.)
 
 ## Notes
 
