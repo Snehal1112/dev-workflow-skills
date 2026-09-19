@@ -608,6 +608,7 @@ This prompt should be used:
 - `Fixes: #XXX` - Closes the issue when merged
 - `Closes: #XXX` - Same as Fixes
 - `Relates to: #XXX` - Creates a reference without closing
+- `Blocks: #XXX` - Indicates blocking relationship
 
 **Multiple Issues:**
 
