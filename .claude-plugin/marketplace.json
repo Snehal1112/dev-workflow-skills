@@ -1,0 +1,14 @@
+{
+  "name": "dev-workflow-skills-marketplace",
+  "owner": {
+    "name": "Snehal Dangroshiya"
+  },
+  "description": "Marketplace for the dev-workflow-skills plugin.",
+  "plugins": [
+    {
+      "name": "dev-workflow-skills",
+      "source": "./",
+      "description": "Git commit message generation and task-decomposition skills for Claude Code."
+    }
+  ]
+}
