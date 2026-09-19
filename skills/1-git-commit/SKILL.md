@@ -1,7 +1,7 @@
 ---
 name: 1-git-commit
 description: Use when creating a git commit message from staged changes - analyzes staged diffs (via subagents), checks for an amend candidate, and drafts a commit message following the Seven Rules of great commit messages.
-disable-model-invocation: true
+disable-model-invocation: false
 ---
 
 # Git Commit Message Generation Prompt
